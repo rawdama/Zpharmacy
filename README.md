@@ -34,10 +34,6 @@ The dashboard contains the following key sections:
   - Total profit: **67.66K**
   - Client count: **56** (Number of clients)
 
-- **Sales Trends**: 
-  - Sales decreased by **10%**.
-  - Cost decreased by **10%**.
-
 - **Category Performance**: 
   - Detailed breakdown of sales by product category.
 
